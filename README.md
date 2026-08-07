@@ -2,7 +2,7 @@
 
 My personal developer portfolio — a single-page site showcasing my projects, skills, and experience as a Software Engineering student.
 
-🔗 **Live site:** [safeerasaleem.netlify.app](https://safeerasaleem.netlify.app) <!-- update with your actual Netlify URL -->
+🔗 **Live site:** [safeerasaleem.netlify.app](https://safeerasaleem.netlify.app/) 
 
 ## About
 
