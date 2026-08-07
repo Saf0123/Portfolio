@@ -31,4 +31,4 @@ I'm a Software Engineering student at Air University, Islamabad, with hands-on e
 
 ---
 
-⭐ Feel free to explore the code — and reach out if you'd like a custom site built for you too.
+⭐ Feel free to explore the code and reach out if you'd like a custom site built for you too.
